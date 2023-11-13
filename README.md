@@ -1,4 +1,4 @@
-# kamwali
+# Fetching sample users data and showing on screen using API call. 
 
 A new Flutter project.
 
